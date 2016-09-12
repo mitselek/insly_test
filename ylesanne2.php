@@ -9,3 +9,5 @@ for ($i = 1; $i <= 30; $i++) {
 foreach( $array as $key => $value ) {
     echo $key."\t=>\t".$value."\n";
 }
+
+?>
